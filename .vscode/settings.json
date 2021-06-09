@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "redisassert.h": "c",
+        "assert.h": "c",
+        "ziplist.h": "c",
+        "float.h": "c",
+        "time.h": "c"
+    }
+}
